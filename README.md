@@ -63,7 +63,7 @@ The project demonstrates display multiplexing, input handling, and embedded timi
 
 Physical Board:
 
-![Physical Board](images/physical-board.png)
+!images/physical-board.png
 
 Proteus schematic:
 
