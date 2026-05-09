@@ -66,6 +66,6 @@ Add screenshots here:
 ```markdown
 ![Physical Board](images/physical-board.png)
 
-![UART terminal output](images/uart-terminal.png)
+![Proteus schematic](images/proteus-schematic.png)
 
-![System block diagram](images/block-diagram.png)
+![UART terminal output](images/uart-terminal.png)
