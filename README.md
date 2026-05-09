@@ -64,10 +64,8 @@ The project demonstrates display multiplexing, input handling, and embedded timi
 Add screenshots here:
 
 ```markdown
-![Proteus schematic](images/proteus-schematic.png)
+![Physical Board](images/physical-board.png)
 
 ![UART terminal output](images/uart-terminal.png)
-
-![7-segment display simulation](images/seven-segment-display.png)
 
 ![System block diagram](images/block-diagram.png)
