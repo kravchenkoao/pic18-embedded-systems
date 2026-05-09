@@ -72,3 +72,9 @@ Proteus schematic:
 UART terminal output:
 
 ![UART terminal output](images/uart-terminal.png)
+
+## Project Materials
+
+Full project files, screenshots, videos, and documentation are available here:
+
+[Open project folder](https://drive.google.com/drive/folders/1pcg9YcY5iSmEdeDAMLnpZ0z_vG_anB-_?usp=sharing)
