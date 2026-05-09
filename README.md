@@ -61,8 +61,14 @@ The project demonstrates display multiplexing, input handling, and embedded timi
 
 ## Images
 
+Physical Board:
+
 ![Physical Board](images/physical-board.png)
 
+Proteus schematic:
+
 ![Proteus schematic](images/proteus-schematic.png)
+
+UART terminal output:
 
 ![UART terminal output](images/uart-terminal.png)
